@@ -13,7 +13,7 @@ class Parser(HTMLParser):
 p=Parser();p.feed((root/'index.html').read_text());assert len(p.ids)==len(set(p.ids))
 for ref in p.refs:
  if ref.startswith('#'):assert ref[1:] in p.ids,ref
- elif not ref.startswith(('http:','https:','data:')):assert (root/ref).exists(),ref
+ elif not ref.startswith(('http:','https:','data:')):assert (root/ref.split("?",1)[0]).exists(),ref
 for src in p.scripts:assert not src.startswith(('http:','https:'))
 data=json.loads((root/'data/cases.json').read_text());wrapped=(root/'data/cases.js').read_text();assert json.loads(wrapped.removeprefix('window.CASE_DATA=').strip().removesuffix(';'))==data
 assert len(data['cases'])==20
