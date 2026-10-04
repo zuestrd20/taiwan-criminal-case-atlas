@@ -21,3 +21,9 @@ assert not re.search(r'<iframe|googletagmanager|google-analytics|facebook.net', 
 assert 'prefers-reduced-motion' in (root/'style.css').read_text()
 assert 'lang="zh-Hant"' in (root/'index.html').read_text()
 print('PASS: static references, unique IDs, no external scripts, JSON/JS parity, no tracking embeds, zh-Hant, reduced motion')
+
+# Regression: reset must update explicit values before rendering, not queue a microtask before the native reset default action.
+app=(root/"app.js").read_text()
+assert "queueMicrotask(render)" not in app
+assert "ev.preventDefault();$('#search').value='';$('#decade').value='all';$('#category').value='all';render();" in app
+print("PASS: reset explicitly clears all three fields before render")
