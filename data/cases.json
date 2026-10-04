@@ -1,0 +1,2370 @@
+{
+  "title": "台灣重大刑事案件圖鑑",
+  "scope": "1996–2025 年精選 20 案，非完整名錄",
+  "checkedAt": "2026-10-05",
+  "timezone": "Asia/Taipei",
+  "cases": [
+    {
+      "id": "procomp-2004",
+      "slug": "procomp-2004",
+      "title": "博達科技財報與掏空案",
+      "year": 2004,
+      "event_date": "2004-06",
+      "region": "新北市",
+      "category": "金融與企業",
+      "summary": "2004年6月，上市公司博達科技因無力償還到期公司債而聲請重整，財務報表與實際可用資金的落差引發調查。檢察機關後來整理指出，案件涉及循環交易、虛增銷售與應收帳款，以及海外金融操作，使投資人依賴的公司資訊失真。部分刑事責任在2009年經最高法院判決確定；這不代表所有公司人員均有相同犯罪或刑度，也不等於投資人已獲完整賠償。理解本案，重點是分辨帳面資產與實際可支用現金、交易形式與經濟實質，以及刑事追訴與民事求償的不同功能。以案件為單位回顧，也能看見董事監督、會計師查核與資訊揭露如何共同影響市場信任，而不能把公司經營失敗一概當成犯罪。",
+      "summarySourceIds": [
+        "procomp-official",
+        "procomp-news"
+      ],
+      "event": {
+        "date": "2004-06",
+        "title": "重整危機公開",
+        "text": "博達因公司債到期資金不足聲請重整。",
+        "sourceIds": [
+          "procomp-news"
+        ]
+      },
+      "status": {
+        "label": "所述刑事部分已確定",
+        "asOf": "2009-11-19",
+        "text": "最高法院98年度台上字第6782號判決所涉部分確定；官方案例記載主要經營者就相關證交法及業務侵占等罪判刑14年、併科罰金1億8,000萬元，另5名同案人員各有不同刑度。本頁不將此刑期當作跨案合併執行刑。",
+        "sourceIds": [
+          "procomp-official"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2004-06",
+          "title": "公開財務危機",
+          "text": "無法清償到期公司債，聲請重整。",
+          "sourceIds": [
+            "procomp-news"
+          ]
+        },
+        {
+          "date": "2004-09-29",
+          "title": "移送偵辦",
+          "text": "調查機關移送士林地檢署。",
+          "sourceIds": [
+            "procomp-official"
+          ]
+        },
+        {
+          "date": "2009-11-19",
+          "title": "部分刑事裁判確定",
+          "text": "最高法院98年度台上字第6782號判決定讞。",
+          "sourceIds": [
+            "procomp-official"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "本案可用來討論循環交易查核、境外資金限制及董監事監督；此為依案情提出的閱讀問題，不宣稱某項修法完全由本案促成。",
+          "sourceIds": [
+            "procomp-official",
+            "procomp-news"
+          ],
+          "kind": "討論議題"
+        }
+      ],
+      "sources": [
+        {
+          "id": "procomp-official",
+          "title": "企業貪瀆案例：博達案",
+          "publisher": "臺灣高等檢察署花蓮檢察分署",
+          "type": "檢察機關整理",
+          "url": "https://www.hlh.moj.gov.tw/291402/291458/291472/310110/post",
+          "date": "2022-02-08"
+        },
+        {
+          "id": "procomp-news",
+          "title": "博達聲請重整與公司債危機",
+          "publisher": "今周刊",
+          "type": "新聞",
+          "url": "https://www.businesstoday.com.tw/article/category/183008/post/200406170037/",
+          "date": "2004-06-17"
+        }
+      ],
+      "caveat": "日期採危機公開月份；部分資料的聲請日與公告日不同。刑事定讞不等於全部民事請求終結。",
+      "checkedAt": "2026-10-05",
+      "imageNote": "原創情境示意，非現場照片；不呈現可辨識真人。",
+      "judicial_status": [
+        {
+          "description": "最高法院98年度台上字第6782號判決所涉部分確定；官方案例記載主要經營者就相關證交法及業務侵占等罪判刑14年、併科罰金1億8,000萬元，另5名同案人員各有不同刑度。本頁不將此刑期當作跨案合併執行刑。",
+          "sourceIds": [
+            "procomp-official"
+          ],
+          "finality": "所述刑事部分已確定",
+          "asOf": "2009-11-19",
+          "proceeding": "刑事"
+        }
+      ]
+    },
+    {
+      "id": "rebar-2007",
+      "slug": "rebar-2007",
+      "title": "力霸集團掏空與金融風波",
+      "year": 2007,
+      "event_date": "2007-01",
+      "region": "臺北市",
+      "category": "金融與企業",
+      "summary": "2007年初，力霸與嘉食化的財務危機浮上檯面，衝擊集團關係企業，並引發中華商銀存款人擠兌及接管處置。案件的公共性不只在公司資產受損，也在集團資金往來如何把風險傳遞給銀行、投資人與其他利害關係人。其刑事審理並非單一判決，而是涉及力霸、嘉食化、力華票券與亞太固網等不同部分，部分罪責定讞、部分曾發回更審，另有特定指控判決無罪。閱讀時應把「集團風波」與「特定被告、特定行為的法院認定」分開，不可由一人有罪推論所有關係人有罪。政府接管是維持金融秩序的行政措施，也不能代替刑事證明。本案適合檢視關係人交易、集團授信集中、財報查核與投資人求償之間的制度連動。",
+      "summarySourceIds": [
+        "rebar-context",
+        "rebar-status",
+        "rebar-acquittal",
+        "rebar-official"
+      ],
+      "event": {
+        "date": "2007-01",
+        "title": "集團財務危機",
+        "text": "集團危機引發中華商銀擠兌及政府接管。",
+        "sourceIds": [
+          "rebar-context"
+        ]
+      },
+      "status": {
+        "label": "多案分別裁判；所述部分已確定",
+        "asOf": "2017-03-22",
+        "text": "中央社報導，2013年已有部分證交法等罪定讞，其他部分分案更審；2017年最高法院駁回其中一名被告就合併執行刑6年3月的抗告。另2016年涉及修法行為的特定補充判決為無罪確定。不能稱整個集團案件同一結果。",
+        "sourceIds": [
+          "rebar-status",
+          "rebar-acquittal"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2007-01-06",
+          "title": "接管中華商銀",
+          "text": "主管機關指定中央存款保險公司接管。",
+          "sourceIds": [
+            "rebar-context"
+          ]
+        },
+        {
+          "date": "2013-08",
+          "title": "部分刑事定讞",
+          "text": "部分證交法等罪確定，其餘部分發回更審。",
+          "sourceIds": [
+            "rebar-status"
+          ]
+        },
+        {
+          "date": "2016-09-29",
+          "title": "特定指控無罪確定",
+          "text": "與立法修法行為相關的補充判決無罪確定。",
+          "sourceIds": [
+            "rebar-acquittal"
+          ]
+        },
+        {
+          "date": "2017-03-22",
+          "title": "個案執行刑裁定確定",
+          "text": "其中一名被告就定執行刑的抗告遭駁回。",
+          "sourceIds": [
+            "rebar-status"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "公司治理及金融監理研究將本案作為關係企業融通、監督與金融風險擴散的討論案例；並非單純股票跌價事件。",
+          "sourceIds": [
+            "rebar-context"
+          ],
+          "kind": "討論議題"
+        }
+      ],
+      "sources": [
+        {
+          "id": "rebar-context",
+          "title": "銀行擠兌、監理與消費者權益分析",
+          "publisher": "國家政策研究基金會",
+          "type": "政策評論",
+          "url": "https://www.npf.org.tw/1/1450",
+          "date": "2007-03-16"
+        },
+        {
+          "id": "rebar-status",
+          "title": "力霸案特定被告執行刑裁定確定",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/201703220103.aspx",
+          "date": "2017-03-22"
+        },
+        {
+          "id": "rebar-acquittal",
+          "title": "力霸案特定補充判決無罪確定",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/201609290145.aspx",
+          "date": "2016-09-29"
+        },
+        {
+          "id": "rebar-official",
+          "title": "重大經濟犯罪案件研究表：力霸與嘉食化",
+          "publisher": "法務部",
+          "type": "政府研究",
+          "url": "https://www.moj.gov.tw/media/6715/941519331872.pdf?mediaDL=true",
+          "date": null
+        }
+      ],
+      "caveat": "集團事件含多家公司、多案與不同訴訟；本頁僅列已核實的節點，不宣稱所有衍生程序已終結。",
+      "checkedAt": "2026-10-05",
+      "imageNote": "原創情境示意，非現場照片；不呈現可辨識真人。",
+      "judicial_status": [
+        {
+          "description": "中央社報導，2013年已有部分證交法等罪定讞，其他部分分案更審；2017年最高法院駁回其中一名被告就合併執行刑6年3月的抗告。另2016年涉及修法行為的特定補充判決為無罪確定。不能稱整個集團案件同一結果。",
+          "sourceIds": [
+            "rebar-status",
+            "rebar-acquittal"
+          ],
+          "finality": "多案分別裁判；所述部分已確定",
+          "asOf": "2017-03-22",
+          "proceeding": "刑事"
+        }
+      ]
+    },
+    {
+      "id": "plasticizer-2011",
+      "slug": "plasticizer-2011",
+      "title": "起雲劑違法添加塑化劑案",
+      "year": 2011,
+      "event_date": "2011-05",
+      "region": "新北市、桃園市",
+      "category": "食品安全",
+      "summary": "2011年，食品原料起雲劑遭違法加入塑化劑的事件曝光，污染疑慮隨原料供應鏈擴及飲料、果醬與其他加工食品，主管機關展開跨縣市稽查、下架及境外通報。起雲劑是食品加工使用的複方原料，問題在於業者把不准用於食品的物質混入，不能因此把所有起雲劑或所有使用業者都視為違法。刑事案件與消費者團體訴訟各自處理不同問題：前者追究違法製售等行為，後者仍需面對損害與賠償範圍的證明。部分刑事判決在2012年確定，消基會提起的團體訴訟則於2018年三審定讞。事件促成全國食品安全會議及原料業者自主管理討論，凸顯追溯供應來源的重要性；消費者是否受到個別健康損害，則不能只憑曾接觸問題產品直接下結論。",
+      "summarySourceIds": [
+        "plasticizer-fda",
+        "plasticizer-criminal",
+        "plasticizer-civil",
+        "plasticizer-reform"
+      ],
+      "event": {
+        "date": "2011-05",
+        "title": "污染事件曝光",
+        "text": "主管機關發布起雲劑遭塑化劑污染資訊並展開處置。",
+        "sourceIds": [
+          "plasticizer-fda"
+        ]
+      },
+      "status": {
+        "label": "所述刑事及團體訴訟已確定",
+        "asOf": "2018-07-31",
+        "text": "昱伸及相關供應商部分刑事案於2012年12月27日定讞，負責人的刑責與公司罰金分別處理；消基會另列消費者團體訴訟於2018年7月31日三審定讞。兩種程序不得混為一案一種刑罰。",
+        "sourceIds": [
+          "plasticizer-criminal",
+          "plasticizer-civil"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2011-05-25",
+          "title": "官方問答發布",
+          "text": "食藥機關建立污染事件說明。",
+          "sourceIds": [
+            "plasticizer-fda"
+          ]
+        },
+        {
+          "date": "2011-06-21",
+          "title": "全國食品安全會議",
+          "text": "研議食品產業及管理改革。",
+          "sourceIds": [
+            "plasticizer-reform"
+          ]
+        },
+        {
+          "date": "2012-12-27",
+          "title": "部分刑事定讞",
+          "text": "昱伸相關製售鏈的刑事裁判確定。",
+          "sourceIds": [
+            "plasticizer-criminal"
+          ]
+        },
+        {
+          "date": "2018-07-31",
+          "title": "團體訴訟定讞",
+          "text": "消基會案件三審確定。",
+          "sourceIds": [
+            "plasticizer-civil"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "衛福部明示因應事件召開2011全國食品安全會議，並推動食品添加物業者自律及源頭管理。",
+          "sourceIds": [
+            "plasticizer-reform"
+          ],
+          "kind": "有據制度回應"
+        }
+      ],
+      "sources": [
+        {
+          "id": "plasticizer-fda",
+          "title": "起雲劑遭塑化劑污染問答",
+          "publisher": "衛福部食藥署",
+          "type": "官方事件說明",
+          "url": "https://www.fda.gov.tw/tc/siteContent.aspx?sid=2481",
+          "date": "2011-05-25"
+        },
+        {
+          "id": "plasticizer-criminal",
+          "title": "塑化劑案昱伸相關刑事裁判定讞",
+          "publisher": "Newtalk新聞",
+          "type": "新聞",
+          "url": "https://newtalk.tw/news/view/2012-12-27/32352",
+          "date": "2012-12-27"
+        },
+        {
+          "id": "plasticizer-civil",
+          "title": "塑化劑團體訴訟進度表",
+          "publisher": "消費者文教基金會",
+          "type": "當事團體訴訟紀錄",
+          "url": "https://www.consumers.org.tw/product-detail-2519858.html",
+          "date": null
+        },
+        {
+          "id": "plasticizer-reform",
+          "title": "食品添加物業者自律與源頭管理",
+          "publisher": "衛生福利部",
+          "type": "政府公告",
+          "url": "https://mohw.gov.tw/cp-16-24393-1.html",
+          "date": null
+        }
+      ],
+      "caveat": "本頁不提供個別受影響者健康判定；同一污染事件中的不同供應商、刑案及民案須分別查閱。",
+      "checkedAt": "2026-10-05",
+      "imageNote": "原創情境示意，非現場照片；不呈現可辨識真人。",
+      "judicial_status": [
+        {
+          "type": "criminal",
+          "procedure": "刑事",
+          "label": "所述刑事部分已確定",
+          "as_of": "2012-12-27",
+          "asOf": "2012-12-27",
+          "description": "昱伸及相關供應商部分刑事裁判於2012年12月27日確定；自然人的刑事責任與公司罰金分別處理，不包含所有供應商或全部衍生案件。",
+          "sourceIds": [
+            "plasticizer-criminal"
+          ],
+          "finality": "所述刑事部分已確定"
+        },
+        {
+          "type": "civil",
+          "procedure": "民事團體訴訟",
+          "label": "所述民事團體訴訟已確定",
+          "as_of": "2018-07-31",
+          "asOf": "2018-07-31",
+          "description": "消基會提起的塑化劑消費者團體訴訟於2018年7月31日三審定讞；此為民事損害賠償程序，不是刑事刑罰。",
+          "sourceIds": [
+            "plasticizer-civil"
+          ],
+          "finality": "三審定讞"
+        }
+      ]
+    },
+    {
+      "id": "bali-double-homicide-2013",
+      "slug": "bali-double-homicide-2013",
+      "title": "八里雙屍案",
+      "event_date": "2013-02-16",
+      "year": 2013,
+      "region": "新北市",
+      "category": "重大暴力",
+      "summary": "2013年2月，新北市發生兩人死亡及財物遭侵害的案件，因遺體在八里河岸被發現而廣受關注。刑事程序經多次審理，最高法院於2017年維持無期徒刑判決，量刑理由涉及犯罪情節、個別化評估及是否有更生可能。案件另衍生僱用人是否應負連帶賠償責任的民事訴訟；這與認定某人參與殺人犯罪，是不同的法律問題。早期偵查曾波及其他人，不能因曾遭調查、羈押或須負民事責任，就將其列為刑事共犯。本案適合從證據如何經審判檢驗、刑事量刑如何說明，以及商業場所僱用人責任如何劃分閱讀。此處只記錄事件與裁判，不重述當事人私生活、被害者背景或未經證實的媒體推測。",
+      "summarySourceIds": [
+        "bali-1",
+        "bali-2",
+        "bali-3",
+        "bali-4",
+        "bali-5"
+      ],
+      "event": {
+        "date": "2013-02-16",
+        "text": "本案兩人遭殺害；其後展開刑事偵查。",
+        "sourceIds": [
+          "bali-2",
+          "bali-5"
+        ]
+      },
+      "status": {
+        "label": "刑事判決確定",
+        "asOf": "2017-04-19",
+        "text": "本案被告強盜殺人案無期徒刑，2017年4月19日經最高法院駁回上訴確定。",
+        "sourceIds": [
+          "bali-1"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2013-02-16",
+          "title": "事件發生",
+          "text": "本案兩人遭殺害；其後展開刑事偵查。",
+          "sourceIds": [
+            "bali-2",
+            "bali-5"
+          ]
+        },
+        {
+          "date": "2017-04-19",
+          "title": "刑事判決確定",
+          "text": "最高法院駁回檢察官及被告上訴，無期徒刑確定。",
+          "sourceIds": [
+            "bali-1"
+          ]
+        },
+        {
+          "date": "2024-02-06",
+          "title": "民事再次發回",
+          "text": "另一求償分案關於僱用人連帶賠償部分，最高法院第三度發回更審。",
+          "sourceIds": [
+            "bali-5"
+          ]
+        }
+      ],
+      "judicial_status": [
+        {
+          "proceeding": "刑事",
+          "description": "本案被告強盜殺人案無期徒刑，2017年4月19日經最高法院駁回上訴確定。",
+          "asOf": "2017-04-19",
+          "finality": "刑事判決確定",
+          "sourceIds": [
+            "bali-1"
+          ]
+        },
+        {
+          "proceeding": "民事",
+          "description": "部分368萬餘元連帶賠償於2017年確定；另一631萬餘元求償分案的僱用人責任部分，最高法院於2024年2月6日撤銷發回更審。",
+          "asOf": "2024-02-06",
+          "finality": "部分民事確定，另一分案更審",
+          "sourceIds": [
+            "bali-3",
+            "bali-5"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "法院說明個別化量刑與再社會化評估；民事另討論民法僱用人責任，不能等同刑事共犯認定。",
+          "sourceIds": [
+            "bali-1",
+            "bali-3"
+          ],
+          "kind": "裁判議題"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bali-1",
+          "title": "強盜殺人案最高法院106年度台上字第669號新聞稿",
+          "publisher": "最高法院",
+          "type": "官方資料",
+          "url": "https://jirs.judicial.gov.tw/GNNWS/NNWSS002.asp?id=263012",
+          "date": "2017-04-19"
+        },
+        {
+          "id": "bali-2",
+          "title": "八里雙屍案司法程序大事記",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/201704190321.aspx",
+          "date": "2017-04-19"
+        },
+        {
+          "id": "bali-3",
+          "title": "兩件損害賠償事件法律責任說明",
+          "publisher": "最高法院",
+          "type": "官方資料",
+          "url": "https://jirs.judicial.gov.tw/GNNWS/NNWSS002-print.asp?CourtID=&MuchInfo=&id=271601&key=Serkey",
+          "date": "2017-06-15"
+        },
+        {
+          "id": "bali-4",
+          "title": "八里雙屍案民事更二審判決報導",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/firstnews/202110270313.aspx",
+          "date": "2021-10-27"
+        },
+        {
+          "id": "bali-5",
+          "title": "最高法院111年度台上字第857號民事發回說明",
+          "publisher": "最高法院",
+          "type": "官方資料",
+          "url": "https://www.judicial.gov.tw/tw/cp-1888-1035815-5452d-1.html",
+          "date": "2024-02-06"
+        }
+      ],
+      "caveat": "刑事與不同民事分案分開呈現；未查得後續不表示沒有後續程序。",
+      "checkedAt": "2026-10-05",
+      "illustrationNote": "原創情境示意，非現場照片；不描繪可辨識當事人或受害者。"
+    },
+    {
+      "id": "tatung-oil-2013",
+      "slug": "tatung-oil-2013",
+      "title": "大統長基混油案",
+      "year": 2013,
+      "event_date": "2013-10-16",
+      "region": "彰化縣",
+      "category": "食品安全",
+      "summary": "2013年10月，檢察與衛生機關搜索大統長基油品工廠，從配方及製程資料追查標榜純油的產品是否以其他油脂混充，以及使用未准用於食用油的添加物調色。問題不只是某次抽驗是否合格，而是標示、原料與實際內容是否一致，消費者能否據此做出選擇。智慧財產法院2014年就負責人及公司相關責任作成確定裁判，個人的有期徒刑與公司的罰金不能互相替代。監察院也檢視事件曝光前，檢驗結果判讀與中央地方協調的缺失。這起案件與隔年的強冠、頂新原料油案件時間及事實不同，不能合併為同一宗犯罪。它留下的制度問題，是當例行理化檢驗不足以辨識混充時，配方稽核、追溯紀錄與行政機關間的資訊交換，如何共同補足食品監管。",
+      "summarySourceIds": [
+        "tatung-prosecutor",
+        "tatung-judgment",
+        "tatung-government",
+        "tatung-control"
+      ],
+      "event": {
+        "date": "2013-10-16",
+        "title": "聯合搜索稽查",
+        "text": "彰化檢警調與衛生機關搜索大統長基工廠。",
+        "sourceIds": [
+          "tatung-prosecutor"
+        ]
+      },
+      "status": {
+        "label": "所述刑事部分已確定",
+        "asOf": "2014-07-24",
+        "text": "智慧財產法院就負責人相關詐欺、商品虛偽標記等罪判處12年徒刑；大統公司罰金3,800萬元。中央社報導此部分於二審定讞。其餘衍生民事與行政爭議另行處理。",
+        "sourceIds": [
+          "tatung-judgment"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2013-10-16",
+          "title": "搜索工廠",
+          "text": "從配方與生產資料追查混油。",
+          "sourceIds": [
+            "tatung-prosecutor"
+          ]
+        },
+        {
+          "date": "2013-10-17",
+          "title": "全國油品稽查",
+          "text": "主管機關展開食用油製造及分裝廠查核。",
+          "sourceIds": [
+            "tatung-government"
+          ]
+        },
+        {
+          "date": "2014-03-05",
+          "title": "監察調查",
+          "text": "檢視檢驗及行政協調問題。",
+          "sourceIds": [
+            "tatung-control"
+          ]
+        },
+        {
+          "date": "2014-07-24",
+          "title": "刑事裁判確定",
+          "text": "個人徒刑與公司罰金分別確定。",
+          "sourceIds": [
+            "tatung-judgment"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "衛福部展開全國油品工廠稽查；監察院對前期查處與檢驗判讀提出調查意見。",
+          "sourceIds": [
+            "tatung-government",
+            "tatung-control"
+          ],
+          "kind": "有據制度回應"
+        }
+      ],
+      "sources": [
+        {
+          "id": "tatung-prosecutor",
+          "title": "大統長基、富味鄉混油案重案實錄",
+          "publisher": "彰化地方檢察署",
+          "type": "檢察機關整理",
+          "url": "https://www.chc.moj.gov.tw/296309/296339/955405/955447/post",
+          "date": null
+        },
+        {
+          "id": "tatung-judgment",
+          "title": "大統混油案二審裁判結果",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/firstnews/201407245003.aspx",
+          "date": "2014-07-24"
+        },
+        {
+          "id": "tatung-government",
+          "title": "食用油品事件處理現況",
+          "publisher": "衛生福利部",
+          "type": "政府公告",
+          "url": "https://www.mohw.gov.tw/cp-2704-22884-1.html",
+          "date": null
+        },
+        {
+          "id": "tatung-control",
+          "title": "食用油事件監察調查新聞稿",
+          "publisher": "監察院",
+          "type": "政府調查",
+          "url": "https://www.cy.gov.tw/Message_Message/23831/NEWS-%E9%A3%9F%E7%94%A8%E6%B2%B9-103.03.05.pdf",
+          "date": "2014-03-05"
+        }
+      ],
+      "caveat": "不把同一重案實錄中的富味鄉案判決套用到大統；不將公司罰金寫成自然人刑度。",
+      "checkedAt": "2026-10-05",
+      "imageNote": "原創情境示意，非現場照片；不呈現可辨識真人。",
+      "judicial_status": [
+        {
+          "description": "智慧財產法院就負責人相關詐欺、商品虛偽標記等罪判處12年徒刑；大統公司罰金3,800萬元。中央社報導此部分於二審定讞。其餘衍生民事與行政爭議另行處理。",
+          "sourceIds": [
+            "tatung-judgment"
+          ],
+          "finality": "所述刑事部分已確定",
+          "asOf": "2014-07-24",
+          "proceeding": "刑事"
+        }
+      ]
+    },
+    {
+      "id": "affordable-housing-2014",
+      "slug": "affordable-housing-2014",
+      "title": "合宜住宅收賄案",
+      "year": 2014,
+      "event_date": "2014-05-30",
+      "region": "桃園市",
+      "category": "公共治理",
+      "summary": "2014年5月，廉政與檢察機關查扣八德合宜住宅案賄款，涉及負責住宅招商評選的公務員與投標廠商間的不法對價。合宜住宅原以回應居住需求為政策目的，因此招商決策是否公正，直接關係公共資源與政策信任。相關訴訟包含八德、機場捷運A7、其他土地開發指控及財產來源不明等不同部分，並非所有指控皆獲有罪判決。最高法院2019年使八德收賄及財產來源不明部分確定，同時駁回檢方就新竹眷改土地案無罪部分的上訴。監察院另從公務員義務與政策執行角度處理違失，和刑事審判有所區別。本案的閱讀重點是評選者的職務權限、廠商利益與金錢往來如何被證明，而不應把所有合宜住宅住戶、建案或承辦人都連結成犯罪群體。",
+      "summarySourceIds": [
+        "housing-court",
+        "housing-control"
+      ],
+      "event": {
+        "date": "2014-05-30",
+        "title": "查扣賄款",
+        "text": "檢察官指揮廉政機關查扣八德合宜住宅案賄款。",
+        "sourceIds": [
+          "housing-court"
+        ]
+      },
+      "status": {
+        "label": "所述收賄及無罪部分均已確定",
+        "asOf": "2019-04-02",
+        "text": "最高法院107年度台上字第1286號：八德案職務上收賄判刑7年6月、財產來源不明判刑3年等部分上訴駁回；新竹眷改土地案無罪部分亦駁回檢方上訴。兩案結論須並列，不可概括全部有罪。",
+        "sourceIds": [
+          "housing-court"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2014-05-30",
+          "title": "廉政偵查",
+          "text": "查扣八德案首期賄款。",
+          "sourceIds": [
+            "housing-court"
+          ]
+        },
+        {
+          "date": "2015",
+          "title": "監察院彈劾",
+          "text": "監察院就合宜住宅收賄違失通過彈劾。",
+          "sourceIds": [
+            "housing-control"
+          ]
+        },
+        {
+          "date": "2019-04-02",
+          "title": "最高法院判決",
+          "text": "八德收賄及財產來源不明有罪部分、新竹土地案無罪部分各自確定。",
+          "sourceIds": [
+            "housing-court"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "監察院指出收賄行為傷害住宅政策及公務廉潔；本頁據此討論招商評選的透明、利益迴避與監督，不宣稱整項住房政策因本案單獨終止。",
+          "sourceIds": [
+            "housing-control"
+          ],
+          "kind": "官方監督與討論議題"
+        }
+      ],
+      "sources": [
+        {
+          "id": "housing-court",
+          "title": "107年度台上字第1286號貪污案新聞稿",
+          "publisher": "最高法院",
+          "type": "法院新聞稿",
+          "url": "https://jirs.judicial.gov.tw/GNNWS/NNWSS002.asp?id=438452",
+          "date": "2019-04-02"
+        },
+        {
+          "id": "housing-control",
+          "title": "合宜住宅收賄事件彈劾說明",
+          "publisher": "監察院",
+          "type": "政府調查",
+          "url": "https://www.cy.gov.tw/News_Content.aspx?n=213&s=7223",
+          "date": null
+        }
+      ],
+      "caveat": "本頁只記案件與公職行為，不製作個人刑期或出獄名冊；合併執行刑另屬不同程序。",
+      "checkedAt": "2026-10-05",
+      "imageNote": "原創情境示意，非現場照片；不呈現可辨識真人。",
+      "judicial_status": [
+        {
+          "description": "最高法院107年度台上字第1286號：八德案職務上收賄判刑7年6月、財產來源不明判刑3年等部分上訴駁回；新竹眷改土地案無罪部分亦駁回檢方上訴。兩案結論須並列，不可概括全部有罪。",
+          "sourceIds": [
+            "housing-court"
+          ],
+          "finality": "所述收賄及無罪部分均已確定",
+          "asOf": "2019-04-02",
+          "proceeding": "刑事"
+        }
+      ]
+    },
+    {
+      "id": "chang-guann-2014",
+      "slug": "chang-guann-2014",
+      "title": "強冠劣質豬油案",
+      "year": 2014,
+      "event_date": "2014-09-04",
+      "region": "高雄市、屏東縣",
+      "category": "食品安全",
+      "summary": "2014年9月，強冠製售劣質豬油事件曝光，主管機關封存產品並追查下游流向。後來的法院認定指出，上游將不得作為食用油原料的油脂賣給強冠，相關人員再供製成食用油產品銷售；事件經由廣泛食品通路擴散，凸顯原料把關的重要。案件同時涉及供油者、製造端與其他人員，法院必須分別判斷其明知程度、分工與適用罪名，不能因同在供應鏈就一律認定共犯。強冠主要經營者部分在2017年定讞，另一上游供油者的程序則到2020年才確定。政府封存、回收與刑事裁判也有不同證明門檻及目的。回顧本案，應關注檢舉線索如何被處理、食品與非食品油脂如何分流，以及追溯紀錄能否迅速讓下游停止使用，而不以煽情的製程想像替代可查證事實。",
+      "summarySourceIds": [
+        "chang-government",
+        "chang-court",
+        "chang-news"
+      ],
+      "event": {
+        "date": "2014-09-04",
+        "title": "劣油事件曝光",
+        "text": "強冠全統香豬油原料問題公開，翌日官方發布追查說明。",
+        "sourceIds": [
+          "chang-government"
+        ]
+      },
+      "status": {
+        "label": "所述經營者及上游部分已確定",
+        "asOf": "2020-02-12",
+        "text": "強冠主要經營者部分於2017年最高法院裁判確定；2020年最高法院109年度台上字第172號另駁回檢察官對上游供油者的上訴。該新聞稿仍明示其他人員當時另案審理，故不宣稱整個供應鏈均已終結。",
+        "sourceIds": [
+          "chang-news",
+          "chang-court"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2014-09-05",
+          "title": "封存與流向追查",
+          "text": "衛福部公布封存回收及下游清查。",
+          "sourceIds": [
+            "chang-government"
+          ]
+        },
+        {
+          "date": "2017-09-13",
+          "title": "主要經營者部分定讞",
+          "text": "最高法院維持相關食安法及加重詐欺罪判決。",
+          "sourceIds": [
+            "chang-news"
+          ]
+        },
+        {
+          "date": "2020-02-12",
+          "title": "上游供油者部分確定",
+          "text": "最高法院109年度台上字第172號駁回上訴。",
+          "sourceIds": [
+            "chang-court"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "事件中的封存、回收與跨縣市流向清查，是可核實的行政回應；延伸閱讀問題為檢舉處理及非食用油脂分流。",
+          "sourceIds": [
+            "chang-government",
+            "chang-court"
+          ],
+          "kind": "有據回應與討論議題"
+        }
+      ],
+      "sources": [
+        {
+          "id": "chang-government",
+          "title": "追查強冠製售劣質豬油事件",
+          "publisher": "衛生福利部",
+          "type": "政府公告",
+          "url": "https://mohw.gov.tw/cp-16-21616-1.html",
+          "date": "2014-09-05"
+        },
+        {
+          "id": "chang-court",
+          "title": "109年度台上字第172號食安案新聞稿",
+          "publisher": "最高法院",
+          "type": "法院新聞稿",
+          "url": "https://www.judicial.gov.tw/tw/cp-1888-164968-50286-1.html",
+          "date": "2020-02-12"
+        },
+        {
+          "id": "chang-news",
+          "title": "強冠劣油案主要經營者部分定讞",
+          "publisher": "公視新聞",
+          "type": "新聞",
+          "url": "https://news.pts.org.tw/article/370790",
+          "date": "2017-09-13"
+        }
+      ],
+      "caveat": "強冠案不得與頂新越南進口原料油案混同；不以2020年的另案審理描述冒充2026年全部程序現況。",
+      "checkedAt": "2026-10-05",
+      "imageNote": "原創情境示意，非現場照片；不呈現可辨識真人。",
+      "judicial_status": [
+        {
+          "description": "強冠主要經營者部分於2017年最高法院裁判確定；2020年最高法院109年度台上字第172號另駁回檢察官對上游供油者的上訴。該新聞稿仍明示其他人員當時另案審理，故不宣稱整個供應鏈均已終結。",
+          "sourceIds": [
+            "chang-news",
+            "chang-court"
+          ],
+          "finality": "所述經營者及上游部分已確定",
+          "asOf": "2020-02-12",
+          "proceeding": "刑事"
+        }
+      ]
+    },
+    {
+      "id": "kaohsiung-gas-2014",
+      "slug": "kaohsiung-gas-2014",
+      "title": "高雄石化管線氣爆案",
+      "event_date": "2014-07-31",
+      "year": 2014,
+      "region": "高雄市",
+      "category": "公共安全",
+      "summary": "2014年7月31日深夜至翌日凌晨，高雄市地下石化管線洩漏引發連環氣爆，造成32人死亡、數百人受傷，道路與公共設施也大幅受損。刑事法院針對管線與排水箱涵交會、長期腐蝕及工程查驗義務逐一認定責任。2021年最高法院駁回上訴，三名負責相關工程的公務員有罪，其餘九名被告無罪確定。另一方面，受災者及代位求償者的民事訴訟仍須依各分案檢視，刑事無罪並不自動等於免負民事責任。本案呈現都市地下設施跨機關、跨業者管理的困難，也說明災害原因、刑事可責性與損害分擔是不同層次。資料頁保留分案及判決日期，避免將早期起訴或第一審結果誤寫成最終結論，亦不把法院認定延伸為對所有相關機關人員的指控。",
+      "summarySourceIds": [
+        "gas-1",
+        "gas-2",
+        "gas-3",
+        "gas-4"
+      ],
+      "event": {
+        "date": "2014-07-31",
+        "text": "地下石化管線洩漏，深夜至翌日引發連環氣爆。",
+        "sourceIds": [
+          "gas-2",
+          "gas-4"
+        ]
+      },
+      "status": {
+        "label": "刑事判決確定",
+        "asOf": "2021-09-15",
+        "text": "最高法院2021年9月15日駁回上訴：三名公務員有罪、其餘九名被告無罪確定。",
+        "sourceIds": [
+          "gas-2"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2014-07-31",
+          "title": "氣爆發生",
+          "text": "地下石化管線洩漏，深夜至翌日引發連環氣爆。",
+          "sourceIds": [
+            "gas-2",
+            "gas-4"
+          ]
+        },
+        {
+          "date": "2021-09-15",
+          "title": "刑事定讞",
+          "text": "三名被告判刑2年6月至3年6月；其餘九人無罪確定。",
+          "sourceIds": [
+            "gas-2"
+          ]
+        },
+        {
+          "date": "2024-07-10",
+          "title": "民事代位求償分案",
+          "text": "高雄高分院判業者須負損害賠償責任，報導時業者表示將上訴。",
+          "sourceIds": [
+            "gas-3"
+          ]
+        }
+      ],
+      "judicial_status": [
+        {
+          "proceeding": "刑事",
+          "description": "最高法院2021年9月15日駁回上訴：三名公務員有罪、其餘九名被告無罪確定。",
+          "asOf": "2021-09-15",
+          "finality": "刑事判決確定",
+          "sourceIds": [
+            "gas-2"
+          ]
+        },
+        {
+          "proceeding": "民事",
+          "description": "2024年7月10日代位求償分案有二審判決；本次來源不足以確認其後是否確定，也不代表所有求償案件的結果。",
+          "asOf": "2024-07-10",
+          "finality": "分案後續待核",
+          "sourceIds": [
+            "gas-3"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "管線維護、箱涵施工驗收與跨單位風險資訊的責任界線，是本案判決呈現的公共安全議題；不據此宣稱某項修法必然由本案造成。",
+          "sourceIds": [
+            "gas-1",
+            "gas-4"
+          ],
+          "kind": "裁判與治理議題"
+        }
+      ],
+      "sources": [
+        {
+          "id": "gas-1",
+          "title": "高雄氣爆案二審判決新聞稿",
+          "publisher": "臺灣高等法院高雄分院",
+          "type": "官方資料",
+          "url": "https://www.judicial.gov.tw/tw/dl-94624-f36188d788b34319a7cf550361683adc.html",
+          "date": "2020"
+        },
+        {
+          "id": "gas-2",
+          "title": "高雄氣爆案刑事判決確定報導",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/firstnews/202109150335.aspx",
+          "date": "2021-09-15"
+        },
+        {
+          "id": "gas-3",
+          "title": "高雄氣爆代位求償二審與上訴說明",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/202407100420.aspx",
+          "date": "2024-07-10"
+        },
+        {
+          "id": "gas-4",
+          "title": "高雄氣爆案偵查說明",
+          "publisher": "高雄地方檢察署",
+          "type": "官方資料",
+          "url": "https://www.ksc.moj.gov.tw/media/43233/412181020395.pdf?mediaDL=true",
+          "date": "2014-12-18"
+        }
+      ],
+      "caveat": "",
+      "checkedAt": "2026-10-05",
+      "illustrationNote": "原創情境示意，非現場照片；不描繪可辨識當事人或受害者。"
+    },
+    {
+      "id": "taipei-metro-2014",
+      "slug": "taipei-metro-2014",
+      "title": "臺北捷運隨機殺人案",
+      "event_date": "2014-05-21",
+      "year": 2014,
+      "region": "臺北市、新北市",
+      "category": "重大暴力",
+      "summary": "2014年5月21日，臺北捷運板南線列車行經龍山寺與江子翠站間時，發生對乘客的隨機攻擊，造成4人死亡、24人受傷。案件直接衝擊公共運輸的日常安全感，也讓緊急通報、車站與列車人員應變、警消協調及創傷支持受到檢視。刑事案件經最高法院於2016年駁回上訴，死刑判決確定；法務部同年公布執行完成。臺北捷運的年度報告記錄了增派巡查人力、建立警消直通聯繫及加強訓練等措施。本頁以運輸場域安全及司法程序為主，不呈現攻擊動線、武器細節、犯案宣言或私人傳記，也不以恐怖畫面重現事件。已公開的判決和制度應對可供查考，但單一事件不能用來推斷所有乘客或特定群體的危險性。",
+      "summarySourceIds": [
+        "mrt-1",
+        "mrt-2",
+        "mrt-3",
+        "mrt-4"
+      ],
+      "event": {
+        "date": "2014-05-21",
+        "text": "板南線列車發生攻擊，造成4死24傷。",
+        "sourceIds": [
+          "mrt-3"
+        ]
+      },
+      "status": {
+        "label": "刑事判決及執行已確認",
+        "asOf": "2016-05-10",
+        "text": "本案被告死刑判決於2016年確定；法務部2016年5月10日公告執行完成。",
+        "sourceIds": [
+          "mrt-1",
+          "mrt-2"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2014-05-21",
+          "title": "列車內隨機攻擊",
+          "text": "板南線列車發生攻擊，造成4死24傷。",
+          "sourceIds": [
+            "mrt-3"
+          ]
+        },
+        {
+          "date": "2016-04-22",
+          "title": "最高法院判決",
+          "text": "最高法院駁回上訴，死刑確定。",
+          "sourceIds": [
+            "mrt-1",
+            "mrt-2"
+          ]
+        },
+        {
+          "date": "2016-05-10",
+          "title": "執行公告",
+          "text": "法務部公告本案死刑已執行。",
+          "sourceIds": [
+            "mrt-2"
+          ]
+        }
+      ],
+      "judicial_status": [
+        {
+          "proceeding": "刑事",
+          "description": "本案被告死刑判決於2016年確定；法務部2016年5月10日公告執行完成。",
+          "asOf": "2016-05-10",
+          "finality": "刑事判決及執行已確認",
+          "sourceIds": [
+            "mrt-1",
+            "mrt-2"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "北捷官方報告記錄加強巡查、警消通報及教育演練；這是可查證的事故後安全作為。",
+          "sourceIds": [
+            "mrt-3",
+            "mrt-4"
+          ],
+          "kind": "已記錄措施"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mrt-1",
+          "title": "最高法院105年度台上字第984號案件新聞稿",
+          "publisher": "最高法院",
+          "type": "官方資料",
+          "url": "https://jirs.judicial.gov.tw/GNNWS/NNWSS002.asp?id=222844",
+          "date": "2016-04-22"
+        },
+        {
+          "id": "mrt-2",
+          "title": "本案死刑執行公告",
+          "publisher": "法務部",
+          "type": "官方資料",
+          "url": "https://www.moj.gov.tw/2204/2795/2796/57629/",
+          "date": "2016-05-10"
+        },
+        {
+          "id": "mrt-3",
+          "title": "2014臺北捷運企業社會責任報告：521事件與處理",
+          "publisher": "臺北捷運",
+          "type": "官方資料",
+          "url": "https://web.metro.taipei/ebook/2014ebook/files/basic-html/page12.html",
+          "date": "2014"
+        },
+        {
+          "id": "mrt-4",
+          "title": "臺北捷運維安措施說明",
+          "publisher": "臺北捷運",
+          "type": "官方資料",
+          "url": "https://www.metro.taipei/News_Content.aspx?n=30CCEFD2A45592BF&s=429658B37B84D831",
+          "date": null
+        }
+      ],
+      "caveat": "傷者總數採捷運年度報告；不同司法來源統計口徑可能不同。",
+      "checkedAt": "2026-10-05",
+      "illustrationNote": "原創情境示意，非現場照片；不描繪可辨識當事人或受害者。"
+    },
+    {
+      "id": "ting-hsin-2014",
+      "slug": "ting-hsin-2014",
+      "title": "頂新進口原料油案",
+      "year": 2014,
+      "event_date": "2014",
+      "region": "彰化縣、屏東縣",
+      "category": "食品安全",
+      "summary": "2014年油品風波中，頂新製油從越南進口原料、再精煉成食用油販售的案件進入刑事程序。爭點包括原料是否具備供人食用的品質、來源與檢驗資料能否證明安全，以及經營者對採購與製造流程的認知。彰化地院一審判決無罪，二審改判部分人員有罪；最高法院其後分別處理已確定與發回部分，直到2022年所述經營者的更審部分確定。這段訴訟過程說明，一審無罪不能被省略，也不能以後來定讞結果回寫成所有指控從始至終都已證實。案件與2013年混油、強冠及正義公司的其他案件彼此有關聯，卻各有不同原料、被告及裁判範圍。制度上值得討論的是跨境食品原料驗證與司法互助，而不是把所有劣油案統稱為同一種回收油犯罪。",
+      "summarySourceIds": [
+        "ting-prosecutor",
+        "ting-news"
+      ],
+      "event": {
+        "date": "2014",
+        "title": "進口原料油案偵辦",
+        "text": "彰化檢方追查頂新進口原料油及製售責任。",
+        "sourceIds": [
+          "ting-prosecutor"
+        ]
+      },
+      "status": {
+        "label": "所述經營者刑事部分已確定",
+        "asOf": "2022-07-29",
+        "text": "一審無罪、二審改判後，最高法院2019年先使部分罪責確定並發回其餘部分；2022年7月29日駁回所述經營者更審部分上訴。此處不把多次判決刑期直接相加，也不涵蓋其他公司及所有被告。",
+        "sourceIds": [
+          "ting-news"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2015",
+          "title": "一審判決",
+          "text": "彰化地院就該起訴案作成無罪判決。",
+          "sourceIds": [
+            "ting-news"
+          ]
+        },
+        {
+          "date": "2018-04-27",
+          "title": "二審改判",
+          "text": "臺中高分院改認部分人員有罪。",
+          "sourceIds": [
+            "ting-prosecutor"
+          ]
+        },
+        {
+          "date": "2019-11",
+          "title": "部分確定、部分發回",
+          "text": "最高法院分別處理不同罪責。",
+          "sourceIds": [
+            "ting-news"
+          ]
+        },
+        {
+          "date": "2022-07-29",
+          "title": "更審部分確定",
+          "text": "最高法院駁回所述經營者等的上訴。",
+          "sourceIds": [
+            "ting-news"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "檢方重案實錄記載二審以司法互助、境外文件及專家證據釐清原料品質；可據以討論跨境驗證及證據能力。",
+          "sourceIds": [
+            "ting-prosecutor"
+          ],
+          "kind": "司法取證經驗"
+        }
+      ],
+      "sources": [
+        {
+          "id": "ting-prosecutor",
+          "title": "頂新製油劣質油案重案實錄",
+          "publisher": "彰化地方檢察署",
+          "type": "檢察機關整理",
+          "url": "https://www.chc.moj.gov.tw/296309/296339/955405/963601/post",
+          "date": "2022-06-02"
+        },
+        {
+          "id": "ting-news",
+          "title": "頂新劣油案更審部分最高法院裁判",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/202207290170.aspx",
+          "date": "2022-07-29"
+        }
+      ],
+      "caveat": "檢察機關的攻防敘述不等同法院對每一事實的最終認定。原料品質爭議不宜改寫為未經證明的地溝油或回收油情節。",
+      "checkedAt": "2026-10-05",
+      "imageNote": "原創情境示意，非現場照片；不呈現可辨識真人。",
+      "judicial_status": [
+        {
+          "description": "一審無罪、二審改判後，最高法院2019年先使部分罪責確定並發回其餘部分；2022年7月29日駁回所述經營者更審部分上訴。此處不把多次判決刑期直接相加，也不涵蓋其他公司及所有被告。",
+          "sourceIds": [
+            "ting-news"
+          ],
+          "finality": "所述經營者刑事部分已確定",
+          "asOf": "2022-07-29",
+          "proceeding": "刑事"
+        }
+      ]
+    },
+    {
+      "id": "baxian-dust-2015",
+      "slug": "baxian-dust-2015",
+      "title": "八仙樂園塵爆案",
+      "event_date": "2015-06-27",
+      "year": 2015,
+      "region": "新北市",
+      "category": "公共安全",
+      "summary": "2015年6月27日，新北市八仙樂園場地舉行的彩色派對發生粉塵爆燃，造成15人死亡及數百人受傷。案件涉及活動主辦、場地提供、設施監督等不同角色，刑事、民事與國家賠償程序的結果不能混為一談。主辦人業務過失致死案於2018年判刑5年確定；2024年最高法院在數件民事案件說明消費者對活動安全的信賴及業者服務安全責任。2026年6月，部分家屬請求國賠案判賠2100萬元確定；同年7月首件團體訴訟二審再判園方等須負賠償責任，仍可上訴。本案的長期意義在於大型活動風險評估、場地監督、消費者救濟與長期復健支持。此頁以不同程序及時點整理，不把某件求償的勝敗推論成全部案件已結束，也不呈現個別傷者影像、身分或醫療細節。",
+      "summarySourceIds": [
+        "baxian-1",
+        "baxian-2",
+        "baxian-3",
+        "baxian-4"
+      ],
+      "event": {
+        "date": "2015-06-27",
+        "text": "彩色派對發生粉塵爆燃，造成重大傷亡。",
+        "sourceIds": [
+          "baxian-1"
+        ]
+      },
+      "status": {
+        "label": "刑事判決確定",
+        "asOf": "2018-12-12",
+        "text": "主辦人業務過失致死案，最高法院2018年駁回上訴，5年徒刑確定。",
+        "sourceIds": [
+          "baxian-1"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2015-06-27",
+          "title": "活動發生塵爆",
+          "text": "彩色派對發生粉塵爆燃，造成重大傷亡。",
+          "sourceIds": [
+            "baxian-1"
+          ]
+        },
+        {
+          "date": "2018-12-12",
+          "title": "主辦刑事確定",
+          "text": "最高法院駁回上訴，主辦人判刑5年確定。",
+          "sourceIds": [
+            "baxian-1"
+          ]
+        },
+        {
+          "date": "2026-06-26",
+          "title": "部分國賠確定",
+          "text": "七名家屬的國賠分案判賠合計2100萬元確定。",
+          "sourceIds": [
+            "baxian-3"
+          ]
+        },
+        {
+          "date": "2026-07-28",
+          "title": "團體民事二審",
+          "text": "首件團體訴訟二審判園方等負賠償責任，可上訴。",
+          "sourceIds": [
+            "baxian-4"
+          ]
+        }
+      ],
+      "judicial_status": [
+        {
+          "proceeding": "刑事",
+          "description": "主辦人業務過失致死案，最高法院2018年駁回上訴，5年徒刑確定。",
+          "asOf": "2018-12-12",
+          "finality": "刑事判決確定",
+          "sourceIds": [
+            "baxian-1"
+          ]
+        },
+        {
+          "proceeding": "國家賠償",
+          "description": "部分家屬向觀光主管機關、新北市政府求償案，合計2100萬元判賠確定。",
+          "asOf": "2026-06-26",
+          "finality": "該國賠分案確定",
+          "sourceIds": [
+            "baxian-3"
+          ]
+        },
+        {
+          "proceeding": "民事團體訴訟",
+          "description": "2026年7月28日首件團體訴訟二審判園方等負責，總判賠約8.97億元；仍可上訴。另有其他團體訴訟，不能以此概括。",
+          "asOf": "2026-07-28",
+          "finality": "二審，可上訴",
+          "sourceIds": [
+            "baxian-4"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "最高法院闡明服務分工不當然排除場地業者的消費安全責任，須按各案事實審究。",
+          "sourceIds": [
+            "baxian-2"
+          ],
+          "kind": "已作成法律見解"
+        }
+      ],
+      "sources": [
+        {
+          "id": "baxian-1",
+          "title": "八仙塵爆刑事最高法院判決新聞稿",
+          "publisher": "最高法院",
+          "type": "官方資料",
+          "url": "https://jirs.judicial.gov.tw/GNNWS/NNWSS002.asp?id=393745",
+          "date": "2018-12-12"
+        },
+        {
+          "id": "baxian-2",
+          "title": "八仙塵爆三件損害賠償事件法律見解",
+          "publisher": "最高法院",
+          "type": "官方資料",
+          "url": "https://www.judicial.gov.tw/tw/cp-1888-1132325-e460e-1.html",
+          "date": "2024"
+        },
+        {
+          "id": "baxian-3",
+          "title": "八仙塵爆部分國賠案判決確定",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/202606260252.aspx",
+          "date": "2026-06-26"
+        },
+        {
+          "id": "baxian-4",
+          "title": "八仙塵爆首件團體訴訟二審結果",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/202607280209.aspx",
+          "date": "2026-07-28"
+        }
+      ],
+      "caveat": "",
+      "checkedAt": "2026-10-05",
+      "illustrationNote": "原創情境示意，非現場照片；不描繪可辨識當事人或受害者。"
+    },
+    {
+      "id": "first-bank-atm-2016",
+      "slug": "first-bank-atm-2016",
+      "title": "第一銀行ATM跨國盜領案",
+      "year": 2016,
+      "event_date": "2016-07-10",
+      "region": "臺北市等多縣市",
+      "category": "數位與金融",
+      "summary": "2016年7月，民眾發現第一銀行ATM在沒有一般提款操作的情況下吐鈔，銀行隨後清查出多處機台現金短少。調查局的案件說明記載，受害金額達8,327萬7,600元，事件牽涉境外網路入侵與在臺取款分工。它顯示金融犯罪不一定從盜取個人提款卡開始，銀行內部系統及權限管理也可能成為風險入口。臺灣法院就三名到案成員的部分在2017年判決確定，但這不代表境外整個犯罪網絡或每一成員都已完成追訴。刑事責任、失款追回與銀行行政監理也是不同面向，追回款項不能抹去犯罪成立，銀行遭裁罰亦不代表銀行是盜領共犯。對公眾最有價值的回顧，是理解異常交易通報、數位鑑識、跨國合作與資安稽核如何相互銜接，而不是重現可操作的入侵步驟。",
+      "summarySourceIds": [
+        "atm-mjib",
+        "atm-cna",
+        "atm-timeline",
+        "atm-security"
+      ],
+      "event": {
+        "date": "2016-07-10",
+        "title": "ATM異常吐鈔",
+        "text": "民眾通報第一銀行機台異常，翌日銀行陸續確認現金短少。",
+        "sourceIds": [
+          "atm-mjib"
+        ]
+      },
+      "status": {
+        "label": "在臺三名到案被告部分已確定",
+        "asOf": "2017-08-24",
+        "text": "最高法院駁回上訴，維持三名在臺到案被告共同無故變更、刪除他人電腦電磁紀錄罪等認定，各處4年10月、4年8月及4年6月徒刑及不同罰金。本頁不推論全部境外成員程序已終結。",
+        "sourceIds": [
+          "atm-cna"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2016-07-10",
+          "title": "異常通報",
+          "text": "民眾發現ATM無一般提款動作卻持續吐鈔。",
+          "sourceIds": [
+            "atm-mjib"
+          ]
+        },
+        {
+          "date": "2016-09-13",
+          "title": "在臺刑案起訴",
+          "text": "臺北地檢署偵結三名到案者部分。",
+          "sourceIds": [
+            "atm-timeline"
+          ]
+        },
+        {
+          "date": "2017-08-24",
+          "title": "刑事部分定讞",
+          "text": "最高法院駁回三名到案者部分上訴。",
+          "sourceIds": [
+            "atm-cna"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "調查局以本案說明數位鑑識及跨國合作；公開政府資料亦以此案提醒特權帳號的存取控制及稽核。",
+          "sourceIds": [
+            "atm-mjib",
+            "atm-security"
+          ],
+          "kind": "官方資安教育案例"
+        }
+      ],
+      "sources": [
+        {
+          "id": "atm-mjib",
+          "title": "一銀ATM跨國駭客盜領案",
+          "publisher": "法務部調查局",
+          "type": "官方案件整理",
+          "url": "https://www.mjib.gov.tw/EditPage/?PageID=df29d27a-b5f3-4d05-bc8e-41cd09c47381",
+          "date": null
+        },
+        {
+          "id": "atm-cna",
+          "title": "一銀盜領案三名到案者刑事定讞",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/firstnews/201708240193.aspx",
+          "date": "2017-08-24"
+        },
+        {
+          "id": "atm-timeline",
+          "title": "一銀ATM盜領案大事記",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/201609130083.aspx",
+          "date": "2016-09-13"
+        },
+        {
+          "id": "atm-security",
+          "title": "政府資料：特權帳號控管與一銀事件",
+          "publisher": "臺中高分檢",
+          "type": "政府文件",
+          "url": "https://www.tch.moj.gov.tw/media/75700/842715545664.pdf?mediaDL=true",
+          "date": null
+        }
+      ],
+      "caveat": "不提供攻擊程式、入侵指令或可操作步驟；最高法院的確定範圍限於所述三名到案者。",
+      "checkedAt": "2026-10-05",
+      "imageNote": "原創情境示意，非現場照片；不呈現可辨識真人。",
+      "judicial_status": [
+        {
+          "description": "最高法院駁回上訴，維持三名在臺到案被告共同無故變更、刪除他人電腦電磁紀錄罪等認定，各處4年10月、4年8月及4年6月徒刑及不同罰金。本頁不推論全部境外成員程序已終結。",
+          "sourceIds": [
+            "atm-cna"
+          ],
+          "finality": "在臺三名到案被告部分已確定",
+          "asOf": "2017-08-24",
+          "proceeding": "刑事"
+        }
+      ]
+    },
+    {
+      "id": "taoyuan-family-arson-2016",
+      "slug": "taoyuan-family-arson-2016",
+      "title": "桃園家庭縱火案",
+      "event_date": "2016-02-07",
+      "year": 2016,
+      "region": "桃園市",
+      "category": "重大暴力",
+      "summary": "2016年農曆除夕，桃園市一處住宅發生故意縱火攻擊，造成六人死亡及其他人員受害。案件經地方法院、高等法院及最高法院審理，最高法院曾因事實認定與證據調查等問題發回，之後於2019年依修正後法律自為判決，判處死刑確定。法務部於2020年4月公告執行完成。本案資料容易混入家庭成員的姓名、私人關係與對立敘事，本頁僅保留總體事件及必要程序資訊。可供公共討論的重點包括重大暴力案件的量刑說理、鑑定證據的合法調查，以及死刑案件新舊法比較與救濟程序。法院判斷是針對個案證據，不能以新聞中的性格描述替代犯罪成因分析，亦不宜將單案作為推斷某類家庭或心理狀態必然導致暴力的依據。所有插圖只呈現司法與消防等抽象情境，不重現私人住宅或受害者。",
+      "summarySourceIds": [
+        "taoyuan-1",
+        "taoyuan-2",
+        "taoyuan-3"
+      ],
+      "event": {
+        "date": "2016-02-07",
+        "text": "桃園住宅遭故意縱火，造成六人死亡。",
+        "sourceIds": [
+          "taoyuan-1"
+        ]
+      },
+      "status": {
+        "label": "刑事判決及執行已確認",
+        "asOf": "2020-04-01",
+        "text": "最高法院2019年7月10日自為死刑判決確定；2020年4月1日法務部公告執行完成。",
+        "sourceIds": [
+          "taoyuan-1",
+          "taoyuan-3"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2016-02-07",
+          "title": "住宅縱火事件",
+          "text": "桃園住宅遭故意縱火，造成六人死亡。",
+          "sourceIds": [
+            "taoyuan-1"
+          ]
+        },
+        {
+          "date": "2019-07-10",
+          "title": "最高法院自為判決",
+          "text": "比較新舊法後，最高法院判處死刑確定。",
+          "sourceIds": [
+            "taoyuan-1"
+          ]
+        },
+        {
+          "date": "2020-04-01",
+          "title": "執行公告",
+          "text": "法務部公告本案死刑執行完成。",
+          "sourceIds": [
+            "taoyuan-3"
+          ]
+        }
+      ],
+      "judicial_status": [
+        {
+          "proceeding": "刑事",
+          "description": "最高法院2019年7月10日自為死刑判決確定；2020年4月1日法務部公告執行完成。",
+          "asOf": "2020-04-01",
+          "finality": "刑事判決及執行已確認",
+          "sourceIds": [
+            "taoyuan-1",
+            "taoyuan-3"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "本案發回及終局判決呈現鑑定證據合法調查、新舊法比較和重大刑罰的量刑說理要求。",
+          "sourceIds": [
+            "taoyuan-1",
+            "taoyuan-2"
+          ],
+          "kind": "裁判議題"
+        }
+      ],
+      "sources": [
+        {
+          "id": "taoyuan-1",
+          "title": "最高法院108年度台上字第940號家暴殺人案新聞稿",
+          "publisher": "最高法院",
+          "type": "官方資料",
+          "url": "https://jirs.judicial.gov.tw/GNNWS/NNWSS002.asp?id=484517",
+          "date": "2019-07-10"
+        },
+        {
+          "id": "taoyuan-2",
+          "title": "最高法院107年度台上字第1603號發回理由",
+          "publisher": "最高法院",
+          "type": "官方資料",
+          "url": "https://jirs.judicial.gov.tw/GNNWS/NNWSS002.asp?id=339266",
+          "date": "2018"
+        },
+        {
+          "id": "taoyuan-3",
+          "title": "本案死刑執行新聞稿",
+          "publisher": "法務部",
+          "type": "官方資料",
+          "url": "https://www.moj.gov.tw/media/9829/67420040121046a1ed.pdf?mediaDL=true",
+          "date": "2020-04-01"
+        }
+      ],
+      "caveat": "日期採最高法院正式新聞稿的2016年2月7日；部分百科將事件日期誤寫為2月6日，未採用。",
+      "checkedAt": "2026-10-05",
+      "illustrationNote": "原創情境示意，非現場照片；不描繪可辨識當事人或受害者。"
+    },
+    {
+      "id": "xpec-2016",
+      "slug": "xpec-2016",
+      "title": "樂陞公開收購與證券詐欺案",
+      "year": 2016,
+      "event_date": "2016",
+      "region": "臺北市、新北市",
+      "category": "金融與企業",
+      "summary": "2016年，百尺竿頭對樂陞科技的公開收購未依約支付價款，投資人除了股價風險，也面臨應賣股票交割落空的損失。後續刑事審理涵蓋不實私募、公開收購資訊、股價操縱及公司財產等不同事項，不能把單純收購失敗直接等同犯罪；關鍵在於資金疑慮、不實訊息及相關行為如何被證明。所述前經營者的刑事部分經一審、二審及發回更審，於2023年最高法院駁回上訴確定。投保中心另協助投資人民事求償，和刑事沒收並不是同一筆已到手的賠償。本案有明確的制度後續：金管會於2016年修正公開收購規範，要求提出支付能力證明並強化重要資訊查證。對一般讀者而言，案件說明公開收購公告、主管機關受理申報與實際履約能力，仍需分別理解。",
+      "summarySourceIds": [
+        "xpec-sfipc",
+        "xpec-cna",
+        "xpec-fsc",
+        "xpec-law"
+      ],
+      "event": {
+        "date": "2016",
+        "title": "公開收購交割落空",
+        "text": "百尺竿頭公開收購樂陞普通股未履行交割。",
+        "sourceIds": [
+          "xpec-sfipc"
+        ]
+      },
+      "status": {
+        "label": "所述前經營者刑事部分已確定",
+        "asOf": "2023-09-20",
+        "text": "最高法院駁回上訴，維持更一審就所述前經營者違反證券交易法等罪判刑10年、併科罰金6,000萬元及犯罪所得追繳沒收的結果。此不表示全體民事投資人已獲賠。",
+        "sourceIds": [
+          "xpec-cna"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2016",
+          "title": "收購未交割",
+          "text": "投保中心公布投資人可能求償途徑。",
+          "sourceIds": [
+            "xpec-sfipc"
+          ]
+        },
+        {
+          "date": "2016-11-18",
+          "title": "法規修正",
+          "text": "修正公開收購管理辦法及說明書準則。",
+          "sourceIds": [
+            "xpec-fsc"
+          ]
+        },
+        {
+          "date": "2016-12-07",
+          "title": "法律修正",
+          "text": "證交法納入支付收購對價能力證明。",
+          "sourceIds": [
+            "xpec-fsc"
+          ]
+        },
+        {
+          "date": "2023-09-20",
+          "title": "刑事部分確定",
+          "text": "最高法院駁回所述前經營者上訴。",
+          "sourceIds": [
+            "xpec-cna"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "金管會專文直接以樂陞未履約事件說明修法緣由：增加支付能力證明、原則限制變更支付安排及強化被收購公司查證。",
+          "sourceIds": [
+            "xpec-fsc"
+          ],
+          "kind": "有據制度變更"
+        }
+      ],
+      "sources": [
+        {
+          "id": "xpec-sfipc",
+          "title": "樂陞公開收購未交割之求償方案",
+          "publisher": "證券投資人及期貨交易人保護中心",
+          "type": "投資人保護公告",
+          "url": "https://www.sfipc.org.tw/News_Content.aspx?n=7456&s=226",
+          "date": null
+        },
+        {
+          "id": "xpec-cna",
+          "title": "樂陞案更審判決最高法院確定",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/202309200233.aspx",
+          "date": "2023-09-20"
+        },
+        {
+          "id": "xpec-fsc",
+          "title": "公開收購相關法規修正簡介",
+          "publisher": "金融監督管理委員會",
+          "type": "官方法規說明",
+          "url": "https://www.fsc.gov.tw/fckdowndoc?file=%2F%E5%85%AC%E9%96%8B%E6%94%B6%E8%B3%BC%E7%9B%B8%E9%97%9C%E6%B3%95%E8%A6%8F%E4%BF%AE%E6%AD%A3%E7%B0%A1%E4%BB%8B.pdf&flag=doc",
+          "date": null
+        },
+        {
+          "id": "xpec-law",
+          "title": "2016年11月18日公開收購辦法歷史版本",
+          "publisher": "金管會主管法規系統",
+          "type": "歷史法規",
+          "url": "https://law.fsc.gov.tw/LawContentHistory.aspx?hid=1037&id=FL007245",
+          "date": "2016-11-18"
+        }
+      ],
+      "caveat": "本頁不把主管機關受理收購申報說成履約背書，不把刑事沒收等同投資人已獲補償。",
+      "checkedAt": "2026-10-05",
+      "imageNote": "原創情境示意，非現場照片；不呈現可辨識真人。",
+      "judicial_status": [
+        {
+          "description": "最高法院駁回上訴，維持更一審就所述前經營者違反證券交易法等罪判刑10年、併科罰金6,000萬元及犯罪所得追繳沒收的結果。此不表示全體民事投資人已獲賠。",
+          "sourceIds": [
+            "xpec-cna"
+          ],
+          "finality": "所述前經營者刑事部分已確定",
+          "asOf": "2023-09-20",
+          "proceeding": "刑事"
+        }
+      ]
+    },
+    {
+      "id": "far-eastern-swift-2017",
+      "slug": "far-eastern-swift-2017",
+      "title": "遠東商銀SWIFT盜匯事件",
+      "year": 2017,
+      "event_date": "2017-10-03",
+      "region": "臺北市",
+      "category": "數位與金融",
+      "summary": "2017年10月，遠東商銀發現系統遭入侵，透過SWIFT傳送的虛偽交易指示造成款項向境外匯出。主管機關與銀行追查、攔阻並追回多數款項，原始匯出總額與後續實際損失因此不能混為一談。金管會其後就銀行資安內控缺失裁罰800萬元，涉及權限管理、防禦機制與稽核等問題；這是對銀行管理義務的行政處分，不是對駭客作成有罪判決。官方國家報告另記載透過國際刑警聯繫斯里蘭卡協查及追回款項，顯示跨境犯罪處理常需多國機關配合。本次查核未找到足以確認整起事件刑事終局的公開資料，故保留未確認標示。案件仍具有公共教育價值：金融系統的安全仰賴帳號權限、網路分隔、異常訊息檢核與持續稽核，不能只把責任歸結為某個防毒軟體是否有效。",
+      "summarySourceIds": [
+        "swift-cna",
+        "swift-report",
+        "swift-bank"
+      ],
+      "event": {
+        "date": "2017-10-03",
+        "title": "跨境異常匯款",
+        "text": "遠銀發現資訊系統異常；10月3日及5日確認相關入侵及虛偽交易。",
+        "sourceIds": [
+          "swift-cna"
+        ]
+      },
+      "status": {
+        "label": "刑事終局未確認；另有行政裁罰",
+        "asOf": "2017-12-12",
+        "text": "已核實金管會就銀行資安內控缺失裁罰800萬元，並要求改善。官方報告記載跨國協查、逮捕及追款，但本次未查得足以確認整案刑事終局的資料；行政裁罰不得標為刑事定讞。",
+        "sourceIds": [
+          "swift-cna",
+          "swift-report"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2017-10-03",
+          "title": "偵測異常",
+          "text": "銀行發現系統問題，續查出虛偽匯款。",
+          "sourceIds": [
+            "swift-cna"
+          ]
+        },
+        {
+          "date": "2017-10-05",
+          "title": "國際協查",
+          "text": "刑事局通報國際刑警組織斯里蘭卡中央局協助攔阻與追款。",
+          "sourceIds": [
+            "swift-report"
+          ]
+        },
+        {
+          "date": "2017-12-12",
+          "title": "行政裁罰",
+          "text": "金管會裁罰800萬元並要求資安改善。",
+          "sourceIds": [
+            "swift-cna"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "金管會要求銀行提高資安層級、充實人力並由外部專家檢測；銀行年報列出網段隔離、權限限縮及日誌監控等改善。",
+          "sourceIds": [
+            "swift-cna",
+            "swift-bank"
+          ],
+          "kind": "有據監理回應"
+        }
+      ],
+      "sources": [
+        {
+          "id": "swift-cna",
+          "title": "遠銀遭駭事件資安內控裁罰",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/firstnews/201712120309.aspx",
+          "date": "2017-12-12"
+        },
+        {
+          "id": "swift-report",
+          "title": "聯合國反貪腐公約首次國家報告：跨境協查案例",
+          "publisher": "政府國家報告（新北市政府公開副本）",
+          "type": "官方報告",
+          "url": "https://www.taishan.ntpc.gov.tw/userfiles/3160400/files/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E8%81%AF%E5%90%88%E5%9C%8B%E5%8F%8D%E8%B2%AA%E8%85%90%E5%85%AC%E7%B4%84%E9%A6%96%E6%AC%A1%E5%9C%8B%E5%AE%B6%E5%A0%B1%E5%91%8A.pdf",
+          "date": null
+        },
+        {
+          "id": "swift-bank",
+          "title": "2018年年報：資安裁罰及改善措施",
+          "publisher": "遠東國際商業銀行",
+          "type": "公司年報",
+          "url": "https://www.feib.com.tw/upload/WebSitePDF/general/AnnualReport2018.pdf",
+          "date": "2019"
+        }
+      ],
+      "caveat": "未查得刑事終局，不代表沒有後續程序。SWIFT是金融電訊系統；本頁不將銀行被入侵誤寫成SWIFT組織本身被攻破。",
+      "checkedAt": "2026-10-05",
+      "imageNote": "原創情境示意，非現場照片；不呈現可辨識真人。",
+      "judicial_status": [
+        {
+          "type": "administrative",
+          "procedure": "行政裁罰",
+          "label": "已作成行政裁罰；救濟結果未確認",
+          "as_of": "2017-12-12",
+          "asOf": "2017-12-12",
+          "description": "金管會就銀行資安內控缺失核處800萬元罰鍰並要求改善；本次未確認後續行政救濟結果，不能標示為刑事定讞或行政裁罰已確定。",
+          "sourceIds": [
+            "swift-cna"
+          ],
+          "finality": "救濟結果未確認"
+        },
+        {
+          "type": "criminal",
+          "procedure": "刑事偵查",
+          "label": "刑事終局未確認",
+          "as_of": "2026-10-05",
+          "asOf": "2026-10-05",
+          "description": "截至2026年10月5日檢索，官方報告可確認跨國協查、逮捕與追款，本次未查得足以確認整案刑事終局的公開裁判。此日期為檢索日，不是司法裁判日；未查得不代表沒有後續程序。",
+          "sourceIds": [
+            "swift-report"
+          ],
+          "finality": "刑事終局未確認"
+        }
+      ]
+    },
+    {
+      "id": "puyuma-2018",
+      "slug": "puyuma-2018",
+      "title": "普悠瑪列車出軌案",
+      "event_date": "2018-10-21",
+      "year": 2018,
+      "region": "宜蘭縣",
+      "category": "交通",
+      "summary": "2018年10月21日，臺鐵第6432次普悠瑪列車在宜蘭新馬站附近出軌，造成18人死亡及多人受傷。刑事法院認定列車超速進入彎道與事故有因果關係，司機員過失致死案於2023年判刑4年6月確定；另兩名主管被告獲無罪。運安會的補強調查則從列車故障處置、出車檢查、維修文件及組織安全管理等面向檢視風險。這些調查的目的在預防再發，與刑事程序是否足以證明個人犯罪並不相同。因此，不能因某人無罪就認定系統完全沒有管理缺失，也不能把調查報告所列風險直接當作犯罪成立。本頁以列車營運制度及公開裁判為中心，不整理乘客身分與受傷細節，也不追蹤任何人的監所、假釋或居住行蹤。改善建議是否完成，應另依逐項追蹤資料判讀，不能只因提出報告便宣稱改革已完成。",
+      "summarySourceIds": [
+        "puyuma-1",
+        "puyuma-2",
+        "puyuma-3",
+        "puyuma-4"
+      ],
+      "event": {
+        "date": "2018-10-21",
+        "text": "第6432次列車在新馬站附近出軌，18人死亡。",
+        "sourceIds": [
+          "puyuma-2",
+          "puyuma-3"
+        ]
+      },
+      "status": {
+        "label": "刑事判決確定",
+        "asOf": "2023-03-03",
+        "text": "司機員過失致死案判刑4年6月，最高法院2023年3月3日駁回上訴確定；兩名主管被告無罪確定。",
+        "sourceIds": [
+          "puyuma-1",
+          "puyuma-3"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2018-10-21",
+          "title": "列車出軌",
+          "text": "第6432次列車在新馬站附近出軌，18人死亡。",
+          "sourceIds": [
+            "puyuma-2",
+            "puyuma-3"
+          ]
+        },
+        {
+          "date": "2020-10-19",
+          "title": "補強調查",
+          "text": "運安會完成補強事故調查，檢視設備與組織安全議題。",
+          "sourceIds": [
+            "puyuma-2"
+          ]
+        },
+        {
+          "date": "2023-03-03",
+          "title": "刑事判決確定",
+          "text": "司機員4年6月徒刑確定；另兩名主管的無罪判決亦已確定。",
+          "sourceIds": [
+            "puyuma-1",
+            "puyuma-3"
+          ]
+        }
+      ],
+      "judicial_status": [
+        {
+          "proceeding": "刑事",
+          "description": "司機員過失致死案判刑4年6月，最高法院2023年3月3日駁回上訴確定；兩名主管被告無罪確定。",
+          "asOf": "2023-03-03",
+          "finality": "刑事判決確定",
+          "sourceIds": [
+            "puyuma-1",
+            "puyuma-3"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "運安會提出出車檢查、維修手冊、設備與營運管理等改善方向，並就建議分項追蹤，與刑事責任判斷分開。",
+          "sourceIds": [
+            "puyuma-2",
+            "puyuma-4"
+          ],
+          "kind": "事故調查與建議"
+        }
+      ],
+      "sources": [
+        {
+          "id": "puyuma-1",
+          "title": "普悠瑪案刑事判決確定說明",
+          "publisher": "宜蘭地方檢察署",
+          "type": "官方資料",
+          "url": "https://www.ilc.moj.gov.tw/294196/294362/294198/1066235/post",
+          "date": "2023"
+        },
+        {
+          "id": "puyuma-2",
+          "title": "新馬站重大鐵道事故補強調查",
+          "publisher": "國家運輸安全調查委員會",
+          "type": "官方資料",
+          "url": "https://www.ttsb.gov.tw/1243/22450/24366/post",
+          "date": "2020-10-19"
+        },
+        {
+          "id": "puyuma-3",
+          "title": "普悠瑪刑事終局結果報導",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/202303035003.aspx",
+          "date": "2023-03-03"
+        },
+        {
+          "id": "puyuma-4",
+          "title": "維修制度改善建議追蹤項目",
+          "publisher": "國家運輸安全調查委員會",
+          "type": "官方資料",
+          "url": "https://www.ttsb.gov.tw/1133/1154/1163/23104/27751/",
+          "date": null
+        }
+      ],
+      "caveat": "",
+      "checkedAt": "2026-10-05",
+      "illustrationNote": "原創情境示意，非現場照片；不描繪可辨識當事人或受害者。"
+    },
+    {
+      "id": "nanfangao-bridge-2019",
+      "slug": "nanfangao-bridge-2019",
+      "title": "南方澳大橋坍塌案",
+      "event_date": "2019-10-01",
+      "year": 2019,
+      "region": "宜蘭縣",
+      "category": "公共安全",
+      "summary": "2019年10月1日，宜蘭南方澳跨港大橋斷裂坍塌，橋下漁船及橋上車輛受到波及，造成六人死亡。運安會調查吊索、錨定系統鏽蝕及橋梁檢測制度，提出安全改善方向。刑事程序則針對個別承攬、監造與管理人員的法定義務及過失因果關係審理；2026年4月二審仍判四名廠商相關被告有罪，兩名港務單位被告無罪，該判決可上訴。另有港務公司向工程顧問公司的民事求償，不能與刑事結果合併解讀。本案顯示長期公共設施管理需要保存設計施工資料、辨識特殊橋型風險並釐清檢測權責。不同專業調查和法院可能採取不同目的及證據判準，本頁會註明資料來源與程序，避免把工程安全建議直接轉寫成所有人均有刑責的結論。",
+      "summarySourceIds": [
+        "bridge-1",
+        "bridge-2",
+        "bridge-3",
+        "bridge-4"
+      ],
+      "event": {
+        "date": "2019-10-01",
+        "text": "橋梁斷裂坍塌，造成六人死亡。",
+        "sourceIds": [
+          "bridge-1"
+        ]
+      },
+      "status": {
+        "label": "二審，可上訴",
+        "asOf": "2026-04-30",
+        "text": "2026年4月30日二審維持四名廠商相關被告1年6月至2年徒刑，其中一人緩刑；兩名港務單位被告無罪。來源明示可上訴。",
+        "sourceIds": [
+          "bridge-2"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2019-10-01",
+          "title": "跨港大橋坍塌",
+          "text": "橋梁斷裂坍塌，造成六人死亡。",
+          "sourceIds": [
+            "bridge-1"
+          ]
+        },
+        {
+          "date": "2026-02-03",
+          "title": "民事一審結果公開",
+          "text": "工程顧問公司被判賠港務公司4547萬餘元，屬另案民事程序。",
+          "sourceIds": [
+            "bridge-3"
+          ]
+        },
+        {
+          "date": "2026-04-30",
+          "title": "刑事二審",
+          "text": "四名廠商相關被告維持有罪，兩名港務單位被告無罪，可上訴。",
+          "sourceIds": [
+            "bridge-2"
+          ]
+        }
+      ],
+      "judicial_status": [
+        {
+          "proceeding": "刑事",
+          "description": "2026年4月30日二審維持四名廠商相關被告1年6月至2年徒刑，其中一人緩刑；兩名港務單位被告無罪。來源明示可上訴。",
+          "asOf": "2026-04-30",
+          "finality": "二審，可上訴",
+          "sourceIds": [
+            "bridge-2"
+          ]
+        },
+        {
+          "proceeding": "民事",
+          "description": "士林地院判工程顧問公司給付港務公司4547萬餘元；此為民事一審，未確認後續確定性。",
+          "asOf": "2026-02-03",
+          "finality": "一審，後續待核",
+          "sourceIds": [
+            "bridge-3"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "事故調查檢視吊索防水、鏽蝕、檢測管理與工程文件保存。安全調查及刑事法院對責任的認定應分別閱讀。",
+          "sourceIds": [
+            "bridge-1",
+            "bridge-4"
+          ],
+          "kind": "事故調查與建議"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bridge-1",
+          "title": "南方澳大橋斷裂調查報告發布",
+          "publisher": "國家運輸安全調查委員會",
+          "type": "官方資料",
+          "url": "https://www.ttsb.gov.tw/1133/1178/1179/28246/",
+          "date": "2020"
+        },
+        {
+          "id": "bridge-2",
+          "title": "南方澳大橋刑事二審結果",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/202604300160.aspx",
+          "date": "2026-04-30"
+        },
+        {
+          "id": "bridge-3",
+          "title": "工程顧問公司民事求償一審結果",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/202602030260.aspx",
+          "date": "2026-02-03"
+        },
+        {
+          "id": "bridge-4",
+          "title": "南方澳大橋事故調查專頁",
+          "publisher": "國家運輸安全調查委員會",
+          "type": "官方資料",
+          "url": "https://www.ttsb.gov.tw/1243/22385/23235/post",
+          "date": null
+        }
+      ],
+      "caveat": "",
+      "checkedAt": "2026-10-05",
+      "illustrationNote": "原創情境示意，非現場照片；不描繪可辨識當事人或受害者。"
+    },
+    {
+      "id": "chengzhongcheng-2021",
+      "slug": "chengzhongcheng-2021",
+      "title": "高雄城中城縱火案",
+      "event_date": "2021-10-14",
+      "year": 2021,
+      "region": "高雄市",
+      "category": "重大暴力",
+      "summary": "2021年10月14日，高雄城中城大樓發生火災，造成46名住戶死亡。案件刑事一審認定放火及過失致死，二審則依殺人罪論處，均判無期徒刑；最高法院於2024年駁回檢察官及被告上訴，判決確定。最高法院說明量刑時，除個別行為的主觀與客觀情節，也指出大樓防火區劃失效、設備老舊及逃生空間受阻等因素。這不代表建築管理缺失可以免除縱火責任，而是重大災害須同時檢視個人犯罪與環境風險。本案適合討論老舊複合用途建物的消防管理、逃生條件及弱勢居住安全；是否涉及其他人的刑事責任，仍須有獨立證據與裁判。本頁僅呈現火災公共事件、審級差異與判決理由，不呈現住戶名單、個人健康情況、私人衝突細節或未經證實的指控。",
+      "summarySourceIds": [
+        "cheng-1",
+        "cheng-2"
+      ],
+      "event": {
+        "date": "2021-10-14",
+        "text": "城中城大樓火災造成46名住戶死亡。",
+        "sourceIds": [
+          "cheng-1",
+          "cheng-2"
+        ]
+      },
+      "status": {
+        "label": "刑事判決確定",
+        "asOf": "2024-01-25",
+        "text": "最高法院2024年1月25日駁回檢察官與被告上訴，維持依殺人罪判無期徒刑、褫奪公權終身。",
+        "sourceIds": [
+          "cheng-2"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2021-10-14",
+          "title": "大樓火災",
+          "text": "城中城大樓火災造成46名住戶死亡。",
+          "sourceIds": [
+            "cheng-1",
+            "cheng-2"
+          ]
+        },
+        {
+          "date": "2022-08-05",
+          "title": "刑事一審",
+          "text": "依放火等罪判無期徒刑。",
+          "sourceIds": [
+            "cheng-1"
+          ]
+        },
+        {
+          "date": "2024-01-25",
+          "title": "最高法院確定",
+          "text": "最高法院駁回上訴，維持二審依殺人罪判無期徒刑。",
+          "sourceIds": [
+            "cheng-2"
+          ]
+        }
+      ],
+      "judicial_status": [
+        {
+          "proceeding": "刑事",
+          "description": "最高法院2024年1月25日駁回檢察官與被告上訴，維持依殺人罪判無期徒刑、褫奪公權終身。",
+          "asOf": "2024-01-25",
+          "finality": "刑事判決確定",
+          "sourceIds": [
+            "cheng-2"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "最高法院判決明確指出防火區劃、逃生與建物維護因素；可討論整體建物安全，不能直接推論其他人刑責。",
+          "sourceIds": [
+            "cheng-2"
+          ],
+          "kind": "裁判與公共安全議題"
+        }
+      ],
+      "sources": [
+        {
+          "id": "cheng-1",
+          "title": "城中城大火刑事一審判決新聞稿",
+          "publisher": "高雄地方法院",
+          "type": "官方資料",
+          "url": "https://www.judicial.gov.tw/tw/cp-1888-691986-4ebe7-1.html",
+          "date": "2022-08-05"
+        },
+        {
+          "id": "cheng-2",
+          "title": "最高法院112年度台上字第4689號判決新聞稿",
+          "publisher": "最高法院",
+          "type": "官方資料",
+          "url": "https://www.judicial.gov.tw/tw/cp-1888-1028292-affd4-1.html",
+          "date": "2024-01-25"
+        }
+      ],
+      "caveat": "",
+      "checkedAt": "2026-10-05",
+      "illustrationNote": "原創情境示意，非現場照片；不描繪可辨識當事人或受害者。"
+    },
+    {
+      "id": "taroko-2021",
+      "slug": "taroko-2021",
+      "title": "太魯閣列車事故案",
+      "event_date": "2021-04-02",
+      "year": 2021,
+      "region": "花蓮縣",
+      "category": "交通",
+      "summary": "2021年4月2日，臺鐵第408次太魯閣列車在花蓮清水隧道附近撞上滑入軌道的工程車，造成49人死亡及多人受傷。事件涉及沿線施工管理、工程採購及營運安全，刑事、事故調查與民事賠償各有不同範圍。刑事一審於2022年作成判決，二審於2025年改判；但2026年4月最高法院僅讓主要被告妨害投標罪10月徒刑確定，過失致死與肇事逃逸部分撤銷發回。另一名被告無罪確定。因此，不應繼續把二審合併刑期寫成最終結果，也不能將發回更審描述為已經無罪。本頁保留分項程序，呈現施工安全監督及救濟如何持續接受檢驗，不列罹難者個別資料、不再現事故現場傷害，也不以單一判決概括鐵路系統的全部改革成效。",
+      "summarySourceIds": [
+        "taroko-1",
+        "taroko-2",
+        "taroko-3",
+        "taroko-4"
+      ],
+      "event": {
+        "date": "2021-04-02",
+        "text": "列車撞上滑入軌道的工程車，造成49人死亡。",
+        "sourceIds": [
+          "taroko-1",
+          "taroko-2"
+        ]
+      },
+      "status": {
+        "label": "部分確定，部分更審",
+        "asOf": "2026-04-23",
+        "text": "最高法院2026年4月23日：主要被告妨害投標10月確定；其過失致死及肇事逃逸部分撤銷發回花蓮高分院更審。另一被告無罪確定。",
+        "sourceIds": [
+          "taroko-2"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2021-04-02",
+          "title": "列車事故",
+          "text": "列車撞上滑入軌道的工程車，造成49人死亡。",
+          "sourceIds": [
+            "taroko-1",
+            "taroko-2"
+          ]
+        },
+        {
+          "date": "2022-11-11",
+          "title": "刑事一審",
+          "text": "主要被告被判過失致死及妨害投標等罪，部分指控無罪。",
+          "sourceIds": [
+            "taroko-1"
+          ]
+        },
+        {
+          "date": "2026-04-23",
+          "title": "部分確定、部分發回",
+          "text": "妨害投標10月確定；過失致死與肇逃部分發回，另一被告無罪確定。",
+          "sourceIds": [
+            "taroko-2"
+          ]
+        }
+      ],
+      "judicial_status": [
+        {
+          "proceeding": "刑事",
+          "description": "最高法院2026年4月23日：主要被告妨害投標10月確定；其過失致死及肇事逃逸部分撤銷發回花蓮高分院更審。另一被告無罪確定。",
+          "asOf": "2026-04-23",
+          "finality": "部分確定，部分更審",
+          "sourceIds": [
+            "taroko-2"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "事故調查與監察調查檢視施工監督、工程安全及鐵路管理；未把行政調查結論當作個別犯罪已成立。",
+          "sourceIds": [
+            "taroko-3",
+            "taroko-4"
+          ],
+          "kind": "調查與治理議題"
+        }
+      ],
+      "sources": [
+        {
+          "id": "taroko-1",
+          "title": "太魯閣事故刑事一審判決新聞稿",
+          "publisher": "花蓮地方法院",
+          "type": "官方資料",
+          "url": "https://www.judicial.gov.tw/tw/cp-1888-749627-67e6f-1.html",
+          "date": "2022-11-11"
+        },
+        {
+          "id": "taroko-2",
+          "title": "太魯閣案最高法院部分確定、部分發回",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/202604230216.aspx",
+          "date": "2026-04-23"
+        },
+        {
+          "id": "taroko-3",
+          "title": "清水隧道重大鐵道事故調查專頁",
+          "publisher": "國家運輸安全調查委員會",
+          "type": "官方資料",
+          "url": "https://www.ttsb.gov.tw/1243/22450/29476/post",
+          "date": null
+        },
+        {
+          "id": "taroko-4",
+          "title": "太魯閣事故工程及管理調查",
+          "publisher": "監察院",
+          "type": "官方資料",
+          "url": "https://www.cy.gov.tw/CyBsBoxContent2.aspx?n=718&s=28042",
+          "date": "2022"
+        }
+      ],
+      "caveat": "截至本次檢索可證的最近刑事節點為2026年4月23日；未據此斷言其後沒有開庭或其他程序。",
+      "checkedAt": "2026-10-05",
+      "illustrationNote": "原創情境示意，非現場照片；不描繪可辨識當事人或受害者。"
+    },
+    {
+      "id": "jobseekers-detention-2022",
+      "slug": "jobseekers-detention-2022",
+      "title": "求職者遭拘禁詐欺集團案",
+      "event_date": "2022-09-24",
+      "year": 2022,
+      "region": "新北市、桃園市",
+      "category": "重大暴力",
+      "summary": "2022年間，詐欺組織以求職及提供銀行帳戶等名義招攬民眾，將多人限制於新北市、桃園市的據點，案件曝光後確認61人遭拘禁，其中三人死亡。檢方分批起訴，刑事法院也依被告參與程度、組織指揮及死亡結果的可預見性分別審理。2025年10月，另行起訴的四名被告案件經最高法院駁回上訴，其中三人無期徒刑、一人26年徒刑確定；不能把這一分案直接當作所有成員的相同刑責。本案揭示求職招募、人頭帳戶、洗錢與人身控制可能交織的風險，也提醒救援及調查不能僅以金流問題看待。資料頁採正式事件名稱，不沿用煽情綽號，不提供拘禁場所地址或當事人名冊，並區別遭拘禁者與被指控參與犯罪的人。沒有逐一核對的其他分案，不推測其刑期或個人現況。",
+      "summarySourceIds": [
+        "detention-1",
+        "detention-2",
+        "detention-3",
+        "detention-4"
+      ],
+      "event": {
+        "date": "2022-09-24",
+        "text": "法院認定本案招攬、拘禁行為發生於9月24日至11月3日期間。",
+        "sourceIds": [
+          "detention-2"
+        ]
+      },
+      "status": {
+        "label": "所述四人分案確定",
+        "asOf": "2025-10-20",
+        "text": "另行起訴的四名被告案件於2025年10月20日確定：三人無期徒刑、一人26年。此為特定分案結果，不概括所有被告。",
+        "sourceIds": [
+          "detention-2"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2022-09-24",
+          "title": "拘禁行為期間開始",
+          "text": "法院認定本案招攬、拘禁行為發生於9月24日至11月3日期間。",
+          "sourceIds": [
+            "detention-2"
+          ]
+        },
+        {
+          "date": "2022-11-02",
+          "title": "案件曝光與救援",
+          "text": "警方公布部分據點救援行動；後續查得總共61人遭拘禁。",
+          "sourceIds": [
+            "detention-4",
+            "detention-1"
+          ]
+        },
+        {
+          "date": "2025-10-20",
+          "title": "另案四人判決確定",
+          "text": "最高法院駁回上訴，其中三人無期徒刑、一人26年徒刑確定。",
+          "sourceIds": [
+            "detention-2"
+          ]
+        }
+      ],
+      "judicial_status": [
+        {
+          "proceeding": "刑事",
+          "description": "另行起訴的四名被告案件於2025年10月20日確定：三人無期徒刑、一人26年。此為特定分案結果，不概括所有被告。",
+          "asOf": "2025-10-20",
+          "finality": "所述四人分案確定",
+          "sourceIds": [
+            "detention-2"
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "text": "本案顯示求職招募、帳戶控制、組織詐欺與人身自由侵害的交織；此為案件反映的風險，非宣稱某次修法單由本案促成。",
+          "sourceIds": [
+            "detention-1",
+            "detention-3"
+          ],
+          "kind": "風險與司法議題"
+        }
+      ],
+      "sources": [
+        {
+          "id": "detention-1",
+          "title": "求職詐騙拘禁案起訴統計說明",
+          "publisher": "士林地方檢察署",
+          "type": "官方資料",
+          "url": "https://www.slc.moj.gov.tw/media/306589/%E6%B1%82%E8%81%B7%E8%A9%90%E9%A8%99%E8%99%90%E5%9B%9A%E6%A1%88%E8%AA%AA%E6%98%8E.pdf?mediaDL=true",
+          "date": "2022"
+        },
+        {
+          "id": "detention-2",
+          "title": "求職拘禁案另案四名被告最高法院結果",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/202510200077.aspx",
+          "date": "2025-10-20"
+        },
+        {
+          "id": "detention-3",
+          "title": "求職拘禁案二審責任認定",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/202505150097.aspx",
+          "date": "2025-05-15"
+        },
+        {
+          "id": "detention-4",
+          "title": "警方救援與初期偵辦報導",
+          "publisher": "中央社",
+          "type": "新聞",
+          "url": "https://www.cna.com.tw/news/asoc/202211020148.aspx",
+          "date": "2022-11-02"
+        }
+      ],
+      "caveat": "",
+      "checkedAt": "2026-10-05",
+      "illustrationNote": "原創情境示意，非現場照片；不描繪可辨識當事人或受害者。"
+    }
+  ]
+}
