@@ -16,7 +16,7 @@ for ref in p.refs:
  elif not ref.startswith(('http:','https:','data:')):assert (root/ref.split("?",1)[0]).exists(),ref
 for src in p.scripts:assert not src.startswith(('http:','https:'))
 data=json.loads((root/'data/cases.json').read_text());wrapped=(root/'data/cases.js').read_text();assert json.loads(wrapped.removeprefix('window.CASE_DATA=').strip().removesuffix(';'))==data
-assert len(data['cases'])==20
+assert len(data['cases'])==40
 assert not re.search(r'<iframe|googletagmanager|google-analytics|facebook.net', (root/'index.html').read_text())
 assert 'prefers-reduced-motion' in (root/'style.css').read_text()
 assert 'lang="zh-Hant"' in (root/'index.html').read_text()
@@ -25,5 +25,14 @@ print('PASS: static references, unique IDs, no external scripts, JSON/JS parity,
 # Regression: reset must update explicit values before rendering, not queue a microtask before the native reset default action.
 app=(root/"app.js").read_text()
 assert "queueMicrotask(render)" not in app
-assert "ev.preventDefault();$('#search').value='';$('#decade').value='all';$('#category').value='all';render();" in app
-print("PASS: reset explicitly clears all three fields before render")
+assert "ev.preventDefault();$('#search').value='';$('#decade').value='all';$('#category').value='all';$('#life').value='all';$('#nature').value='all';render();" in app
+print("PASS: reset explicitly clears all five fields before render")
+
+for filename in ['index.html','app.js','logic.js','data/cases.json','data/cases.js']:
+ text=(root/filename).read_text()
+ for private in ['/workspace/','/tmp/','dream_notes','agent_notes','OneDrive']:
+  assert private not in text,(filename,private)
+assert data['counts']=={'original':20,'new':20,'total':40,'life_focus':30}
+for asset in ['style.css','data/cases.js','logic.js','app.js','data/cases.json']:
+ assert asset+'?v=20261005-40' in (root/'index.html').read_text()
+print('PASS: runtime privacy and cache version parity')
